@@ -1,0 +1,29 @@
+/* ----- STILI DI BASE ------ */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 1.5em;
+  padding: 15px;
+}
+
+h2 {
+  font-size: 1em;
+}
+
+h3 {
+  font-size: 0.85em;
+}
+
+p {
+  margin: 0.5em 0; /* 0.5 sopra/sotto, 0 destra/sinistra */
+}
+
+/* ----- STILI DI BASE ------ */
